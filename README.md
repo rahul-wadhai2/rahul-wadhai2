@@ -12,7 +12,7 @@
 - I am skilled in **Kotlin**, **Jetpack Compose**, **MVVM architecture**, **CI/CD**, and robust testing automation.
 - Adept at leading end-to-end project lifecycles and delivering scalable, user-focused mobile solutions.
 - Currently, I am expanding my knowledge in **Python** and **Java Backend** (beginner level) to enhance automation and backend capabilities.
-- Seeking opportunities in **Android Development**, **Mobile Automation**, and **Project Management** (Remote, Hybrid, Onsite, or Full-Time).
+- Seeking opportunities in **Android Development**, **Mobile Automation**, and **Project Management** (Remote, Hybrid, Onsite, or Full-Time, Freelance).
 
 ---
 
