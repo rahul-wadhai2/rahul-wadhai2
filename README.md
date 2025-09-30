@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Dilip Wadhai
 - :computer: I’m Senior Software Engineer
 - :memo: I Have following skill Android Application Development | Automation Of Mobile Application
-- :briefcase: Currently Working as freelance.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-dilip-wadhai-419641a0)
 - 📫 You can reach out through Email: rahul.wadhai2@gmail.com Mobile No: 9096960779
 
 <!---
